@@ -1,6 +1,6 @@
-# Enviro365 Investments — Withdrawal Notice System
+Withdrawal Notice System
 
-Full-stack junior developer assessment for Enviro365 Investments. Allows investors to view their portfolio, submit withdrawal requests (with business rule validation), view withdrawal history, and export statements as CSV.
+Allows investors to view their portfolio, submit withdrawal requests (with business rule validation), view withdrawal history, and export statements as CSV.
 
 ## Tech Stack
 - Backend: Java 21, Spring Boot, Spring Data JPA, H2 (in-memory database)
